@@ -1,4 +1,4 @@
-
+---
 widget: home
 
 # This file represents a page section.
