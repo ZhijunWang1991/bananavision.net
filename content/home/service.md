@@ -21,12 +21,12 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 
-    icon: chart-scatter
-    icon_pack: fab
+    icon: compass-drafting
+    icon_pack: fas
     name: Visualisation
   - description: 
-    icon: robot-astromech
-    icon_pack: fab
+    icon: robot
+    icon_pack: fas
     name: machine learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
