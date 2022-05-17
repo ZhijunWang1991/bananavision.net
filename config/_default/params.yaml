@@ -103,6 +103,8 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+  Font Awesome:
+    enable: true
 icon.pack:
     ai: true
 # Security
