@@ -12,6 +12,8 @@ weight: 20
 title: Gallery
 subtitle: ''
 
+{{< gallery album="example" >}} 
+
 gallery_item:
 - album: <example>
   image: <G1>.jpg
@@ -21,7 +23,7 @@ gallery_item:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---
 
 
