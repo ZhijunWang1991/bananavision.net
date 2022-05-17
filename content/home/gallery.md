@@ -12,12 +12,7 @@ weight: 20
 title: Gallery
 subtitle: ''
 
-{{< gallery album="example" >}} 
 
-gallery_item:
-- album: example
-  image: featured.jpg
-  caption: Write your image 1 caption here
 
 
 design:
