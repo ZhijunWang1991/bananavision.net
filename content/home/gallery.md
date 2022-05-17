@@ -11,7 +11,7 @@ weight: 20
 
 title: Gallery
 
-content:
+feature:
 ![](/home/gallery_files/Circle_heatmap.png)
 ![](/home/gallery_files/Pulp_PCA_geo.png)
 ![](/home/gallery_files/peel_soil_corr.png)
