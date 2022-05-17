@@ -5,19 +5,19 @@
 
 main:
   - name: Home
-    url: '/'
+    url: '#about'
     weight: 10
   - name: Gallery
-    url: '/gallery/'
+    url: '#gallery'
     weight: 20
   - name: Service
-    url: '/service/'
+    url: '#service'
     weight: 30
   - name: Over
-    url: '/over/'
+    url: '#over'
     weight: 40
   - name: Contact
-    url: '/contact/'
+    url: '#contact'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
