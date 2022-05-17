@@ -14,7 +14,7 @@ main:
     url: '#service'
     weight: 30
   - name: Over
-    url: '#about me'
+    url: '#over'
     weight: 40
   - name: Contact
     url: '#contact'

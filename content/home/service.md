@@ -27,7 +27,7 @@ feature:
   - description: 
     icon: robot
     icon_pack: fas
-    name: machine learning
+    name: Machine learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
