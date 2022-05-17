@@ -10,17 +10,15 @@ headless: true
 weight: 20
 
 title: Gallery
-subtitle: ''
-
-
-
 
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: '1'
 ---
-
+![](/home/gallery_files/Circle_heatmap.png)
+![](/home/gallery_files/Pulp_PCA_geo.png)
+![](/home/gallery_files/peel_soil_corr.png)
 
 
 
