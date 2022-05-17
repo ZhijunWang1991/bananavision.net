@@ -15,8 +15,8 @@ subtitle: ''
 {{< gallery album="example" >}} 
 
 gallery_item:
-- album: <example>
-  image: <G1>.tiff
+- album: example
+  image: G1.tiff
   caption: Write your image 1 caption here
 
 
