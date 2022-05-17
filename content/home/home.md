@@ -50,6 +50,4 @@ subtitle = "Science & Art"
  css_class = ""
 +++
 
-![](/home/home_files/Banana Vision-logos_transparent.png)
-
 <center>Beautiful scientific graphing, data modeling, consulting about data analysis</center>
