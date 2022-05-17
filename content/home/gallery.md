@@ -16,14 +16,14 @@ subtitle: ''
 
 gallery_item:
 - album: example
-  image: G1.tiff
+  image: featured.jpg
   caption: Write your image 1 caption here
 
 
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '1'
+  columns: '2'
 ---
 
 
