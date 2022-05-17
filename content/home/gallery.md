@@ -16,7 +16,7 @@ subtitle: ''
 
 gallery_item:
 - album: <example>
-  image: <G1>.jpg
+  image: <G1>.tiff
   caption: Write your image 1 caption here
 
 
