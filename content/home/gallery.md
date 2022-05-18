@@ -19,28 +19,27 @@ design:
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
  
-[[gallery_item]]
- album = "gallery"
- image = "biplot.png"
- caption = "Principal component analysis"
+gallery_item:
+- album = gallery
+  image = biplot.png
+  caption = Principal component analysis
 
-[[gallery_item]]
- album = "gallery"
- image = "Circle_heatmap.png"
- caption = "Heatmap in circle"
+gallery_item:
+- album = "gallery"
+  image = "Circle_heatmap.png"
+  caption = "Heatmap in circle"
  
-[[gallery_item]]
- album = "gallery"
- image = "corr.png"
- caption = "Heatmap to show correlation coefficient"
+gallery_item:
+- album = "gallery"
+  image = "corr.png"
+  caption = "Heatmap to show correlation coefficient"
 
-[[gallery_item]]
- album = "gallery"
- image = "network.png"
- caption = "network analysis"
+gallery_item:
+- album = "gallery"
+  image = "network.png"
+  caption = "network analysis"
 ---
-
-{{< gallery >}}
+{{< gallery album="gallery" >}} 
 
 
 
