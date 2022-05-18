@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -10,12 +10,12 @@ headless: true
 weight: 20
 
 title: Gallery
+subtitle: ''
 
 design:
-  # Choose a view for the listings:
-  view: citation
   columns: '2'
 ---
+
 
 
 
