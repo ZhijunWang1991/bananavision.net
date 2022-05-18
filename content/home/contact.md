@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: max.zhijun@outlook.com
+  email:
   contact_links:
 
 
