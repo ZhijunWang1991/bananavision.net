@@ -39,3 +39,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+My name is Max, during my Ph.D. career, I had a lot of training in data science and visualization. I am still passionate about data analysis using R and Python. I can assist you with data plotting to make your research life easier.
