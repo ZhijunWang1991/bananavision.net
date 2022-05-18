@@ -15,14 +15,10 @@ subtitle: ' '
 design:
   columns: '2'
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
- 
 gallery_item:
-- album = gallery
-  image = biplot.png
-  caption = Principal component analysis
+- album = "gallery"
+  image = "biplot.png"
+  caption = "Principal component analysis"
 
 gallery_item:
 - album = "gallery"
