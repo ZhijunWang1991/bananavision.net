@@ -21,7 +21,7 @@ marketing:
     description: 'Banana Vision, where science meet art'
     twitter: ' '
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-141182669-1'
     baidu_tongji: ''
   verification:
     google: ''
